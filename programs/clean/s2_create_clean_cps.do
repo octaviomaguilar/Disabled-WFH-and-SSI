@@ -21,7 +21,7 @@ drop if age < 18 | age > 64
 gen tm = ym(year, month)
 format tm %tm
 
-*1.3: drop missing or faulty data earnings data
+*1.3: drop missing or faulty earnings data
 drop if earnweek2 >= 1000000 
 drop if incdisab == 9999999
 drop if incwage != . & incwage > 500000
