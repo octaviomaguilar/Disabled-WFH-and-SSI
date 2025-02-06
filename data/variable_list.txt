@@ -15,4 +15,4 @@ diassistothdi telwrkpay telwrkhr telwrkdiffcvd
 Pull the following variables from the IPUMS ACS from 2017 to 2023: 
  year sample serial cbserial hhwt cluster strata gq pernum perwt age 
 empstat empstatd occsoc diffrem diffphys diffmob diffcare diffsens
-diffeye diffhear tranwork
+diffeye diffhear tranwork incsupp
