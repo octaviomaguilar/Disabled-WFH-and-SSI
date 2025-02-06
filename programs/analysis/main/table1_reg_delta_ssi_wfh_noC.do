@@ -26,7 +26,7 @@ merge 1:1 occ2 using "$ipums/clean/delta_ssi_recipients_noC.dta", keep(3) nogen
 *merge in dingel wfh measure
 merge 1:1 occ2 using "$data/telework/onet_dingel_wfhdiff.dta", keep(3) nogen
 
-*merge in compositional data 
+*merge in labor market tightness data 
 merge 1:1 occ2 using "$ipums/clean/polynomial_disability_noC_emp.dta", keep(3) nogen
 
 *******
