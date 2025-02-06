@@ -1,4 +1,4 @@
-This README file contains the directory layout and replication steps to replicate the results found in "results_wfh_ssi.pdf". In partiuclar, I explore the relationship between the rise in WFH impacts Supplemental income benefits (i.e., SSI) for workers with disabilities. If there are any questions or concerns please email me: octaviomaguilar@outlook.com
+This README file contains the directory layout and replication steps to replicate the results found in "results_wfh_ssi.pdf". In partiuclar, I examine the relationship between WFH and Supplemental Security Income for workers with disabilities. If there are any questions or concerns please email me: octaviomaguilar@outlook.com
 
 Replication instructions:
 - The only data that must be downloaded by you is the raw IPUMS data. Instructions on how to download the data and variables needed can be found in "data/ipums/raw".
