@@ -1,0 +1,18 @@
+
+Pull the following variables from the IPUMS CPS-ASEC from 2017 to 2024: 
+year serial month hwtfinl cpsid asecflag asecwth pernum wtfinl cpsidv cpsidp 
+asecwt inctot incwage incss incssi incvet incsurv incdisab incdivid incrent 
+incasist srcdisa1 srcdisa2 incdisa1 incdisa2 whyss1 whyss2 gotvdisa disabwrk
+
+Pull the following variables from the IPUMS CPS from 2017m1 to 2024m12: 
+year serial month hwtfinl cpsid asecflag statefip faminc pernum wtfinl cpsidv 
+cpsidp earnweek2 hourwage2 relate age sex race marst famsize nchild yngch 
+hispan empstat labforce occ ind classwkr uhrsworkt uhrswork1 ahrswork1 
+durunemp whyunemp whyabsnt whyptlwk wkstat educ diffhear diffeye diffrem 
+diffphys diffmob diffcare diffany diworkaffect diempbar7 diassistssdi diassistins 
+diassistothdi telwrkpay telwrkhr telwrkdiffcvd
+
+Pull the following variables from the IPUMS ACS from 2017 to 2023: 
+ year sample serial cbserial hhwt cluster strata gq pernum perwt age 
+empstat empstatd occsoc diffrem diffphys diffmob diffcare diffsens
+diffeye diffhear tranwork
